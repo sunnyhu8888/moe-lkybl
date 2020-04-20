@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Events
+    url: /events/
+  - title: About The Fund
+    collection: about-the-fund
+  - title: Press Room
+    resource_room: true
